@@ -40,8 +40,8 @@ this application it was developped in environement of GM motor, have an objectif
 
 # Developed By:
 > <p> <h3>- OUSSAID Abderrahman</h3> </p>
-> <p> <h3- ED-DAOUDY Abdelouahed</h3><p/>
-> <p> <h3- AJEDDIG Mohammed </h3></p>
+> <p> <h3>- ED-DAOUDY Abdelouahed</h3><p/>
+> <p> <h3>- AJEDDIG Mohammed </h3></p>
 > <p>Master Big Data Analytics & Smart Systems (BDSaS) 2016 / 2018</p>
 > <p>Faculty of Science Dhar El Mahraz</p>
 > <p>University Sidi Mohamed Ben Abdellah - Fez</p>
