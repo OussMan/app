@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <title>Places Searchbox</title>
+     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <!-- Base css, but you'll likely want to keep them -->
+    <link rel="stylesheet" href="../css/reset.css" type="text/css">
+
+    <link rel="stylesheet" href="../css/came.css" type="text/css">
+
+   
+    <script src="../js/ngi.polyfill.min.js"></script>
+    <script src="../GMLIB/system.js"></script>
+    <script src="../GMLIB/info.js"></script>
+     
+
+ <!-- Your custom files -->
+    <link rel="stylesheet" href="../css/Map.css" type="text/css">
+    
+  </head>
+  <body>
+
+    <div id="wrapper">
+      <div id="close"><img src="../images/close.png" onclick="closeMap()" alt="close"></div>
+      <div id="main" >     
+               
+     
+
+
+
+
+  	<input id="pac-inpu" class="controls" type="hidden" placeholder="">
+    <input id="pac-input" class="controls" type="text" placeholder="Search Box">
+    <div id="map"></div>
+   
+
+     </div>
+    </div>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCEjyUL7YzLcopYkF6nNYq8QTBlTskNIDg&libraries=places&callback=initAutocomplete"
+         async defer></script>
+         <script src="../js/Map.js"></script>
+  </body>
+</html>

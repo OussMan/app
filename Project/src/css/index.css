@@ -1,0 +1,160 @@
+/* Your CSS goes here */
+/* Your CSS goes here */
+/* Your CSS goes here */
+/* Your CSS goes here */
+/* Your CSS goes here */
+#maine {
+  text-align: center;
+  position: relative;
+  background-image : url("../../images/bg.jpg");
+  width: 100%;
+  height: 388px!important;
+  background-size : cover;
+ opacity : 0;
+ cursor: pointer;
+}
+
+/* Your CSS goes here */
+@font-face{src:url("../font/acens.ttf"); font-family: test;}
+div.welcome{
+  width: 25%;
+  height: 200px;
+  float: left;
+  margin-left: 6%;
+  margin-top: 80px;
+  border-radius: 5px;
+  background-color: rgba(159, 243, 165, 0.24);
+  border: 1px dotted #ccc;
+  font-family: test;
+  font-size: 18px;
+  color: white;
+}
+div.welcome h1{
+  padding-top: 30px;
+}
+div.info{
+  width: 36%;
+  height: 200px;
+  float: left;
+  margin-left: 2%;
+  margin-top: 80px;
+  background-color: blue;
+  padding-left: 5px;
+  padding-top: 20px;
+  font-family: test;
+  font-size: 26px;
+  color: white;
+  border-radius: 5px;
+  background-color: rgba(159, 243, 165, 0.24);
+  border: 1px dotted #ccc;
+}
+div.info table tr td{
+  width: 40%;
+  height: 30px;
+  text-align: left;
+
+}
+#noticeT{
+  width: 60%!important;
+  position: absolute;
+  margin-left: 20%;
+  margin-top: 44%!important;
+  border-radius: 5px;
+  display: none;
+  font-family: test;
+  font-size: 17px;
+  color: white;
+}
+#notice{
+  width: 60%!important;
+  position: absolute;
+  margin-left: 20%;
+  margin-top: 40%!important;
+  border-radius: 5px;
+  display: none;
+  font-family: test;
+  font-size: 17px;
+  color: white;
+}
+.Message{
+  text-align: center;
+  font-family: test;
+  font-size: 30px;
+}
+
+.heurs{
+  width: 200px;
+  height: 200px;
+  background-color: rgba(159, 243, 165, 0.24);
+  border: 1px dotted #ccc;
+  font-family: test;
+  font-size: 18px;
+  color: white;
+  margin-left: 71%;
+  margin-top: 10%;
+  position: absolute;
+  border-radius: 5px;
+}
+
+.deg{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.deg ul{
+  list-style: none;
+}
+.deg ul li{
+  font-family: test;
+  font-size: 95px;
+  color:white;
+  position: absolute;
+}
+.deg ul li:nth-child(1){
+  margin-left: 53px;
+  margin-top: 100px;
+}
+.deg ul li:nth-child(2){
+  margin-left: 53px;
+  margin-top: -90px;
+}
+.deg ul li:nth-child(3){
+  margin-left: -43px;
+  margin-top: 6px;
+}
+.deg ul li:nth-child(4){
+  margin-left: 149px;
+  margin-top: 6px;
+}
+.deg ul li:nth-child(5){
+  margin-left: 137px;
+  margin-top: -41px;
+}
+.deg ul li:nth-child(6){
+  margin-left: 104px;
+  margin-top: -76px;
+}
+.deg ul li:nth-child(7){
+  margin-left: 135px;
+  margin-top: 53px;
+}
+.deg ul li:nth-child(8){
+  margin-left: 100px;
+  margin-top: 86px;
+}
+.deg ul li:nth-child(9){
+  margin-left: 6px;
+  margin-top: 87px;
+}
+.deg ul li:nth-child(10){
+  margin-left: -27px;
+  margin-top: 54px;
+}
+.deg ul li:nth-child(11){
+  margin-left: -28px;
+  margin-top: -44px;
+}
+.deg ul li:nth-child(12){
+  margin-left: 5px;
+  margin-top: -77px;
+}

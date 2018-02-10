@@ -1,0 +1,44 @@
+body {
+    padding-top: 91px!important;
+}
+#main {
+  text-align: center;
+  position: relative;
+  height: 387px!important;
+  background-size : cover;
+  background-image : url("../../images/bg.jpg")
+}
+#close {
+  position: absolute;
+  background-color: #ccc;
+  top:  90px;
+  right: 0;
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  z-index: 1001;
+}
+#close img {
+  width: 100%;
+}
+
+@media (min-width: 801px) {
+  #close {
+    top: 90px;
+  }
+}
+
+Came1{
+  width: 100%;
+  width: 70%;
+  height: 50%;
+  margin-left: 15%;
+  background-color: red;
+}
+#Came1{
+    height: 50px;
+    width: 50px;  
+    background: red;
+    border-radius: 100px; 
+    border-top-right-radius: 100px; 
+}
